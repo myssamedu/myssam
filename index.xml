@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2023-07-12T15:11:20.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="N0kiLbqUhByazBGhtwxF" version="20.8.16" type="device" pages="2">
+  <diagram name="페이지-1" id="sprF-21Wqxefzcr_yfjY">
+    <mxGraphModel dx="3930" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-1" value="C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-2" value="H" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-3" value="O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-5" target="DDLXVQ1HgJIglKWVvThk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-5" value="N" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-7" target="DDLXVQ1HgJIglKWVvThk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-7" value="P (P2O5)&lt;br&gt;=인산" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-9" target="DDLXVQ1HgJIglKWVvThk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-9" value="K(K2O)&lt;br&gt;=산화칼륨&lt;br&gt;=가리" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-10" value="S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-11" value="Ca" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-12" value="Mg" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-13" value="다량원소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-14" value="미량원소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-15" value="Fe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-16" value="Mn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-17" value="Cu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-18" value="Zn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-19" value="B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-20" value="Cl" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=DungGeunMo;fontSize=15;curved=1;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-23" target="DDLXVQ1HgJIglKWVvThk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=DungGeunMo;fontSize=15;curved=1;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-23" target="DDLXVQ1HgJIglKWVvThk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-23" value="co2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=DungGeunMo;fontSize=15;curved=1;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-26" target="DDLXVQ1HgJIglKWVvThk-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=DungGeunMo;fontSize=15;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-26" target="DDLXVQ1HgJIglKWVvThk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-26" value="H20" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-27" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;질소(N)&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;작물 생육에 가장 중요한 성분으로서 광합성에 관계하는 엽록소를 만들어 작물의 줄기와 잎,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;키를 키우는 역할을 합니다. 식물체 내 생화학 반응에 관여하는 효소, 호르몬, 비타민류의 구성성분이기도 합니다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; · 결핍 증상&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 키가 크지 않고 아랫잎부터 누렇게 말라 죽습니다. 개화가 되더라도 결실률이 낮으며,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; 과실의 발육이 불량하고 품질도 떨어집니다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; · 과다 증상&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 대부분의 양분이 가지와 잎의 생장에만 소비되어 꽃눈 형성이 불량해집니다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; 겉으로 보기엔 줄기가 튼튼해 보이지만 만져보면 무르고 연약합니다.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=DungGeunMo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="235" width="360" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-28" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;인산(P)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;가지와 잎의 생장을 충실하게 하고 탄수화물 대사에 중요한 역할을 합니다.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;인산 그 자체가 단백질 합성에 중요한 성분이 되기 때문에 과실의 수량을 증가시키는 한편,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;단맛은 높이고 신맛은 감소시켜 과실의 품질이 좋아집니다.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; · 결핍 증상&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; - 꽃과 잎의 광택이 줄어들며, 줄기는 가늘어지고 작아져 병에 걸리기 쉬워집니다.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; · 과다 증상&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; - 길항작용에 의하여 고토(Mg)나 철(Fe)의 흡수를 방해해 생육이 억제됩니다.&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=DungGeunMo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="595" width="360" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-29" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;칼륨(K)&lt;/div&gt;&lt;div&gt;작물 세포 속에 존재하면서 체내 pH의 급격한 변화를 억제시키고, 탄수화물 대사, 호흡 작용,&lt;/div&gt;&lt;div&gt;광합성 작용, 단백질 합성, 엽록소 생성 등에 필요한 역할을 하는 것으로 알려져 있습니다.&lt;/div&gt;&lt;div&gt;단백질과 전분을 만들며 뿌리와 줄기 등을 튼튼하게 합니다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; · 결핍 증상&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - 줄기가 연약해지고 잎 색깔이 옅어집니다.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; · 과다 증상&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - 양분의 균형적인 흡수가 방해됩니다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=DungGeunMo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="820" width="360" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-33" target="DDLXVQ1HgJIglKWVvThk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-33" target="DDLXVQ1HgJIglKWVvThk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=DungGeunMo;fontSize=7;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-33" target="DDLXVQ1HgJIglKWVvThk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-33" value="비료의 3요소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="30" y="595" width="110" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="합성비료 과학자 하버" link="https://www.youtube.com/watch?v=Q37oxNgdhAc" id="DDLXVQ1HgJIglKWVvThk-34">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="767" width="110" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=DungGeunMo;fontSize=7;curved=1;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-34" target="DDLXVQ1HgJIglKWVvThk-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="790" as="sourcePoint" />
+            <mxPoint x="70" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-36" value="식물 뿌리가 물을 흡수할 때에 물에 용해되어 있는 물 질은 덩달아 식물체내로 흡수가 된다. 그래서 식물은 물에 녹는 물질만을 &lt;br/&gt;흡수하게 되는 것이다. 토양에 투입된 유기질 비료가 신속하게 흡수가 안 되고 시간이 지나야만 흡수가 되는 것도 바로 여기에 있는 &lt;br/&gt;것이다. " style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="570" width="357" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DDLXVQ1HgJIglKWVvThk-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=DungGeunMo;fontSize=7;curved=1;exitX=0.997;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-36" target="DDLXVQ1HgJIglKWVvThk-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="790" as="sourcePoint" />
+            <mxPoint x="70" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="합성비료 과학자 하버" link="data:page/id,shZaIDlO4vn8i_GIcmra" id="DDLXVQ1HgJIglKWVvThk-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+            <mxGeometry x="-210" y="920" width="110" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6Gdl-oVaNPI_ZSeLRTot-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=DungGeunMo;fontSize=7;curved=1;" edge="1" parent="1" source="DDLXVQ1HgJIglKWVvThk-34" target="DDLXVQ1HgJIglKWVvThk-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="790" as="sourcePoint" />
+            <mxPoint x="70" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wpo-D4Yz0LmK1K2L4pha-1" value="미량원소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpo-D4Yz0LmK1K2L4pha-2" value="H20" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=DungGeunMo;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="627.5" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="shZaIDlO4vn8i_GIcmra" name="페이지-2">
+    <mxGraphModel dx="1821" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vxT1YeJlggWFCJXU4xft-1" value="바봅바보보바보보보바보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3ypxrgsu5Gf7vPCy9Rt8-1" value="바보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ypxrgsu5Gf7vPCy9Rt8-2" value="바보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ypxrgsu5Gf7vPCy9Rt8-3" value="바보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ypxrgsu5Gf7vPCy9Rt8-4" value="바보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="돌아가기" link="data:page/id,sprF-21Wqxefzcr_yfjY" id="3ypxrgsu5Gf7vPCy9Rt8-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
