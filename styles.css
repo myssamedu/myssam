@@ -1,0 +1,15 @@
+/* styles.css */
+a {
+    fill: blue;
+    text-decoration: underline;
+    cursor: pointer; /* Change cursor to hand */
+  }
+  
+  a:hover {
+    cursor: pointer; /* Keep the cursor as a hand on hover */
+    color: red; /* Change the color to red on hover */
+  }
+  
+  text {
+    font-size: 4px; /* Apply font size to all text elements */
+  }
